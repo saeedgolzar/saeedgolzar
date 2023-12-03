@@ -1,2 +1,6 @@
-[![github-banner](https://saeedgolzar.ir/images/thumbnail/github-banner.svg#gh-light-mode-only)](https://saeedgolzar.ir)
-[![github-banner](https://saeedgolzar.ir/images/thumbnail/github-banner-dark.svg#gh-dark-mode-only)](https://saeedgolzar.ir)
+<a href=https://saeedgolzar.ir/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://saeedgolzar.ir/images/thumbnail/github-banner-dark.svg">
+    <img alt="github-banner" src="https://saeedgolzar.ir/images/thumbnail/github-banner.svg">
+  </picture>
+</a>
