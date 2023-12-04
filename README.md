@@ -4,4 +4,4 @@
     <img alt="github-banner" src="https://saeedgolzar.ir/images/thumbnail/github-banner.svg">
   </picture>
 </a>
-![Static Badge](https://img.shields.io/badge/Linkedin-transparent?style=for-the-badge&logo=linkedin&logoColor=0077b5)
+![Static Badge](https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077b5)
