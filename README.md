@@ -6,4 +6,4 @@
 </a>
 
 
-# ![Static Badge](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)
+// ![Static Badge](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)
